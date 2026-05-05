@@ -1,4 +1,4 @@
-#<h2 align="center">Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan codeigniter framework</h2>
+<h1 align="center">Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan codeigniter framework</h1>
 
 ## 🔄 Workflow / How It Works
 1. **Document Submission**
