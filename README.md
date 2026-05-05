@@ -44,7 +44,7 @@ git clone https://github.com/ZuhriSyafiq/formpeng
 3. Import database:
    - Open phpMyAdmin
    - Create new database (pkl.sql)
-   - Import .sql file
+   - Import .sql file (in database folder)
 4. Run in browser: http://localhost/nama-folder
 
 ## Login Admin
