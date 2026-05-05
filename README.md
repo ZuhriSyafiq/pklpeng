@@ -1,4 +1,4 @@
-<h3 align="center">Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan codeigniter framework</h3>
+#<h2 align="center">Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan codeigniter framework</h2>
 
 ## 🔄 Workflow / How It Works
 1. **Document Submission**
@@ -33,7 +33,7 @@
 ![Track](track.png)
 
 ### Admin page
-![Admin Page](managemntadmin.png)
+![Admin Page](managementadmin.png)
 
 ## ⚙️ Installation & Setup
 1. Clone this repository
@@ -46,4 +46,9 @@ git clone https://github.com/ZuhriSyafiq/formpeng
    - Create new database (pkl.sql)
    - Import .sql file
 4. Run in browser: http://localhost/nama-folder
+
+## Login Admin
+1. Click button login on website
+2. user : admin
+   pass : admin
 
